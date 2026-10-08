@@ -14,3 +14,13 @@
 # Exercice 4 : Gestion d’Auteurs, Livres et Bibliothèques :
 
 <img width="497" height="307" alt="TP4 4" src="https://github.com/user-attachments/assets/350ac4db-561e-464d-846a-24bc58d2ae58" />
+
+
+# Exercice 5 :
+
+<img width="592" height="107" alt="ex2 tp4" src="https://github.com/user-attachments/assets/e8a7d95a-eca5-46ba-b339-e25124c66019" />
+
+
+# Exercice 6 :
+
+<img width="413" height="109" alt="ex 3 tp4" src="https://github.com/user-attachments/assets/e0f70e26-6b97-42ae-8a6c-1783618e015b" />
