@@ -4,5 +4,5 @@
 /**
  * 
  */
-module TPAssociations {
+module EX3 {
 }
